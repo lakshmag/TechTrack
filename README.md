@@ -1,4 +1,4 @@
-# Tech Track
+# Tech Track :zap:
 Tracking the Tech Trends and more
 
 ### Tech Titans
