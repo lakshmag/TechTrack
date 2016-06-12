@@ -21,4 +21,4 @@ Key Developer Events
 | 2  |  Altassian | Atlascamop  | Mar  |  |
 |  3 | Docker  | DockerCon  | June  | |
 |   4 | MongoDB  | MongoDB World | June  |   |
-|  5 |  Datastax|   |  Cassandra Summit | Sep  |
+|  5 |  Datastax|   Cassandra Summit | Sep  |  |
