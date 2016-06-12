@@ -18,7 +18,7 @@ Key Developer Events
 | No. |  Company |  Event | Date |  Key Highlights|
 |---|---|---|---|---|
 |1|  Redhat| Summit  |  June |   |
-| 2  |  Altassian | Atlascamop  | Mar  |  |
+| 2  |  Altassian | Atlascamp  | Mar  |  |
 |  3 | Docker  | DockerCon  | June  | |
 |   4 | MongoDB  | MongoDB World | June  |   |
 |  5 |  Datastax|   Cassandra Summit | Sep  |  |
