@@ -1,8 +1,9 @@
 # Tech Track 2016 :zap:
-Tracking the Tech Trends and more
+Tracking the tech trends and more
+
+###### Key Developer events
 
 ### Tech Titans
-Key Developer Events
 
 | No. |  Company |  Event | Date |  Key Highlights|
 |---|---|---|---|---|
