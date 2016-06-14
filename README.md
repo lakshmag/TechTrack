@@ -1,5 +1,7 @@
 # Tech Track 2016 :zap:
-Tracking the tech trends and more
+Software is eating the world. 
+Do you know which software is eating the world? Open source software! 
+Tracking the tech trends and more...
 
 ###### Key Developer events
 
