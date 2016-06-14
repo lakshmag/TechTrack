@@ -10,7 +10,7 @@ Tracking the tech trends and more
 |1|  Apple |  WWDC | June  | macOS Sierra, iOS 10, watchOS, tvOS  3 <BR> Siri SDK, HomeKit App, Swift playground iPad App   |
 | 2  |  Google | I/O  | May  | Google Assistant, [Google Home](https://home.google.com), <BR> Duo (Video Calling App), Allo (Messenging App), <BR> [Daydream](https://vr.google.com/daydream/) (VR), Android N (Instant Apps), <BR> [Angular 2](https://github.com/lakshmag/TechTrack/wiki/Angular-2), Google ML (Vision, Speech, Translate) |
 |  3 | Microsoft  | Build  | Mar  | Edge Browser, Conversation as a Platform, <BR> HoloLens, Cognitive Services (Vision, Speech, Language)  |
-|   4 | Facebook  |  F8 | April  | Messenger Bot, 360 Video, <BR> React, React Native  |
+|   4 | Facebook  |  F8 | April  | Messenger Bot, 360 Video, <BR> React, React Native, GraphQL, Origami  |
 |  5 |  Amazon |re:invent   |  Nov |   |
 
 
