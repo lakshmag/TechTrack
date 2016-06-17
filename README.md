@@ -33,4 +33,4 @@ Tracking the tech trends and more...
 |1|  OpenIoT | Summit  |  Apr, Oct |   |
 | 2  | Node.JS   | Interactive  | Nov, Sep  |  |
 |  3 | LinuxCon <BR> ContainerCon  | Conference | Aug, Oct  | |
-|   4 | ApacheCon <BR> BigData  | Conference | May, Nov  |   |
+|   4 | ApacheCon <BR> Apache Big Data  | Conference | May, Nov  |   |
