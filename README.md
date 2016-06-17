@@ -25,3 +25,12 @@ Tracking the tech trends and more...
 |  3 | Docker  | DockerCon  | June  | |
 |   4 | MongoDB  | MongoDB World | June  |   |
 |  5 |  Datastax|   Cassandra Summit | Sep  |  |
+
+### Linux Foundation Powered
+
+| No. |  Name |  Event | Date |  Key Highlights|
+|---|---|---|---|---|
+|1|  OpenIoT | Summit  |  Apr, Oct |   |
+| 2  | Node.JS   | Interactive  | Nov, Sep  |  |
+|  3 | LinuxCon <BR> ContainerCon  | Conference | Aug, Oct  | |
+|   4 | ApacheCon <BR> BigData  | Conference | May, Nov  |   |
